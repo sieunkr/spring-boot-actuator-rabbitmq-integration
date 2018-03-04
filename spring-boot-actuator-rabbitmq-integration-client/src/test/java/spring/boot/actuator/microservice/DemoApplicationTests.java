@@ -1,4 +1,4 @@
-package com.example.demo;
+package spring.boot.actuator.microservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
